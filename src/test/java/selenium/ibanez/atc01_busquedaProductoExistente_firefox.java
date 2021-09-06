@@ -1,4 +1,4 @@
-package selenium.ibanez;
+/*package selenium.ibanez;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
@@ -53,3 +53,4 @@ public class ATC01_busquedaProductoExistente_firefox {
     }
 
 }
+*/

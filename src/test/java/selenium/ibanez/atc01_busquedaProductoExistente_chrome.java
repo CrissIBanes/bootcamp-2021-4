@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 //atc: automatic test case
-public class ATC01_busquedaProductoExistente_chrome {
+class ATC01_busquedaProductoExistente_chrome {
 
     WebDriver driver;
     By barraBusqueda = By.xpath("//*[@id='search_query_top']");

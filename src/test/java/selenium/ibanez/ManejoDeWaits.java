@@ -1,13 +1,17 @@
-package selenium.ibanez;
+/*package selenium.ibanez;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.BeforeClass;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
+import static selenium.ibanez.ManejoDeObjetos.driver;
+
 public class ManejoDeWaits {
+    WebDriver
     @BeforeClass
     public static void init(){ WebDriverManager.edgedriver().setup();
     }
@@ -39,3 +43,4 @@ public class ManejoDeWaits {
 
 
 }
+*/
